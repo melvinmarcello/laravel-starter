@@ -1,0 +1,15 @@
+.wrapper-table{
+    width: auto;
+    overflow: scroll;
+    background-color: white;
+  }
+
+div.modal-customer-header, .modal-customer-content{
+    border: none;
+}
+div.modal-customer-content{
+    background-color: transparent !important;
+}
+.nost{
+    background-color: green;
+}

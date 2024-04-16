@@ -1,0 +1,52 @@
+.box{
+    height: 150px;
+    width: 260px;
+    padding: 1rem 2rem;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 5px 7px 3px rgba(0, 0, 0, .3);
+    position: relative;
+}
+
+.box span{
+    font-size: .9rem;
+    position: absolute;
+    bottom: 20px;    
+    text-shadow: 1px 1px rgba(0, 0, 0, .3);
+}
+.daily{    
+    background-color: skyblue;
+}
+.weekly{
+    background-color: forestgreen;
+}
+.weekly-berjalan{
+    background-color: brown;
+}
+.monthly{
+    background-color: orange;
+}
+.POS{
+    background-color: darkgrey;
+}
+.nonPOS{
+    background-color: cornflowerblue;
+}
+i.bi-calendar{
+    font-size: 4rem;
+    
+}
+
+.wrapper-chart{
+    border: 1px solid gray;
+    background-color: rgba(0, 0, 0, .1);
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 5px 5px 3px rgba(0, 0, 0, .5);
+    border-radius: 4px;   
+}
+
+.box-body{
+    height: 400px !important;
+}
